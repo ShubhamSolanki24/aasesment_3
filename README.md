@@ -11,4 +11,5 @@
 3) Election.sol
 4) package-lock.json
 5) package.json
- all Screenshot written "3rd Screenshot"
+
+ScreenShot of 3rd - all Screenshot written "3rd Screenshot"
