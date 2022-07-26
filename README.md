@@ -6,9 +6,9 @@
   working Step by step in the form of blog - Deployment_using_Node_and_web3.docx
   
  Code of 3rd - all the files with "third" written like 
-1  node_module
-2  Election.js
-3  Election.sol
-4  package-lock.json
-5  package.json
-6  all Screenshot written "3rd Screenshot"
+1)  node_module
+2) Election.js
+3) Election.sol
+4) package-lock.json
+5) package.json
+ all Screenshot written "3rd Screenshot"
